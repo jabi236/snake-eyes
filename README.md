@@ -1,0 +1,1 @@
+In this project I wrote C++ program that simulates the simultaneous rolling of three pairs of six–sided dice over a number of simulations. The number of snake eyes obtained within n simulations is printed
